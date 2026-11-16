@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://fidahussain.me"><img src="https://img.shields.io/badge/Portfolio-fidahussain.me-0f8f84?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/fida-hussain-c2005"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/fidahussain-robotics"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:fida57840@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
